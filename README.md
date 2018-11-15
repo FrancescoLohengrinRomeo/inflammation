@@ -1,3 +1,3 @@
 # Inflammation analysis
 
-This is a sandbox for ...
+This is a sandbox for plotting scripts.
